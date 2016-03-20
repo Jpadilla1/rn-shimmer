@@ -1,0 +1,25 @@
+{
+  "name": "react-native-shimmer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpadilla1/react-native-shimmer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jpadilla1/react-native-shimmer/issues"
+  },
+  "homepage": "https://github.com/Jpadilla1/react-native-shimmer#readme",
+  "keywords": [
+    "shimmer",
+    "loader",
+    "react-native",
+    "react-component",
+    "ios"
+  ],
+  "author": "Jose Padilla <jpadilla1293@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-native start"
+  }
+}
