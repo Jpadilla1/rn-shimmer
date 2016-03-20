@@ -24,7 +24,7 @@ React Native binding for (Facebook's Shimmer)[https://github.com/facebook/Shimme
 Example code:
 
 ```JavaScript
-var { Shimmer } = require('rn-shimmer');
+var Shimmer = require('rn-shimmer');
 
 var MyComponent = React.createClass({
   render: function() {
