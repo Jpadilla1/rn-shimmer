@@ -1,6 +1,6 @@
-# react-native-shimmer
-[![npm version](https://img.shields.io/npm/v/react-native-shimmer.svg?style=flat-square)](https://www.npmjs.com/package/react-native-shimmer)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-shimmer.svg?style=flat-square)](https://www.npmjs.com/package/react-native-shimmer)
+# rn-shimmer
+[![npm version](https://img.shields.io/npm/v/rn-shimmer.svg?style=flat-square)](https://www.npmjs.com/package/rn-shimmer)
+[![npm downloads](https://img.shields.io/npm/dm/rn-shimmer.svg?style=flat-square)](https://www.npmjs.com/package/rn-shimmer)
 
 # Introduction
 
@@ -8,8 +8,8 @@ React Native binding for (Facebook's Shimmer)[https://github.com/facebook/Shimme
 
 # Installation
 
-1. Run `npm install --save react-native-shimmer`
-2. Add all the files under node_modules/react-native-shimer/RNShimmer.
+1. Run `npm install --save rn-shimmer`
+2. Add all the files under node_modules/rn-shimer/RNShimmer.
 3. When you add the files XCode should prompt you to create a bridging header if you haven't done so already. Add these imports to the file.
 
   ```Objective-C
@@ -24,7 +24,7 @@ React Native binding for (Facebook's Shimmer)[https://github.com/facebook/Shimme
 Example code:
 
 ```JavaScript
-var { Shimmer } = require('react-native-shimmer');
+var { Shimmer } = require('rn-shimmer');
 
 var MyComponent = React.createClass({
   render: function() {

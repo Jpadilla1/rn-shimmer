@@ -1,15 +1,15 @@
 {
-  "name": "react-native-shimmer",
+  "name": "rn-shimmer",
   "version": "0.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jpadilla1/react-native-shimmer.git"
+    "url": "git+https://github.com/Jpadilla1/rn-shimmer.git"
   },
   "bugs": {
-    "url": "https://github.com/Jpadilla1/react-native-shimmer/issues"
+    "url": "https://github.com/Jpadilla1/rn-shimmer/issues"
   },
-  "homepage": "https://github.com/Jpadilla1/react-native-shimmer#readme",
+  "homepage": "https://github.com/Jpadilla1/rn-shimmer#readme",
   "keywords": [
     "shimmer",
     "loader",
